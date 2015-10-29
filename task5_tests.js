@@ -12,10 +12,10 @@ else{
 //    Check that the button has the text 'Make failing'.
 var mybutton = document.getElementById("button");
     if(mybutton  === 'make failing'){
-    	console.log("the button text is red : " + mybutton.innerHTML);
+    	console.log("the button text is  : " + mybutton.innerHTML);
     } 
     else{
-      console.log("the button text is  : " + mybutton.innerHTML);
+      console.log("the button text is   : " + mybutton.innerHTML);
 
     }
 
@@ -25,10 +25,10 @@ var mybutton = document.getElementById("button");
 
 //     Check that #testresult has the class failing. The CSS should give it a red background.
 if (testresult.className === "failing"){
-	console.log("the testresult class is : " +testresult.className);
+	console.log("the testresult class is  : " +testresult.className);
 }
 else{
-	console.log("the testresult class is : ");
+	console.log("the testresult class is  : ");
 }
 
 //     Check that the button has the text 'Make passing'.

@@ -1,3 +1,3 @@
-var setTestStatus = function(testresult, testbutton, failing){
+var setTestStatus = function(testresult, testbutton, passing){
 setTestStatus.addEventlister
 }
