@@ -1,16 +1,16 @@
 .grey {
 	width: 10em;
 	height: 10em;
-	background-color: grey;
+	background: grey;
 }
 .failing{
 	width: 10em;
 	height: 10em;
-	background-color: red;
+	background: red;
 }
 .passing{
 	width: 10em;
 	height: 10em;
-	background-color: green;
+	background: green;
 
 }	
