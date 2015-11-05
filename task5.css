@@ -3,11 +3,13 @@
 	height: 10em;
 	background: grey;
 }
+
 .failing{
 	width: 10em;
 	height: 10em;
 	background: red;
 }
+
 .passing{
 	width: 10em;
 	height: 10em;

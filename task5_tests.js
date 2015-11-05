@@ -1,5 +1,5 @@
-//    Check that the div with id testresult doesn't have the class failing or passing. 
-//    Use console.log to display a message that tells you what the result of the check was.
+//  Check that the div with id testresult doesn't have the class failing or passing. 
+//  Use console.log to display a message that tells you what the result of the check was.
 console.log("*******start*******")
 var testresult = document.getElementById('testresult');
 

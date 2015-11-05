@@ -15,7 +15,6 @@ var setTestStatus = function (elementId, buttonId, className){
   else {
     button.innerHTML ="Make failing";
  }
-
 };
 
 
